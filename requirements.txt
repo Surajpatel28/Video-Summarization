@@ -1,0 +1,24 @@
+# Video Summarization Requirements (GPU/CPU Compatible)
+
+# Core dependencies
+streamlit>=1.28.0
+yt-dlp>=2023.10.13
+
+# Audio/Video processing
+ffmpeg-python>=0.2.0
+
+# GPU/CPU compatible transcription (auto-detects)
+openai-whisper>=20231117
+
+# GPU/CPU compatible summarization
+llama-cpp-python>=0.2.0
+
+# Model downloading from HuggingFace
+huggingface-hub>=0.20.0
+
+# PyTorch (GPU/CPU auto-detect)
+torch>=2.1.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.24.0
