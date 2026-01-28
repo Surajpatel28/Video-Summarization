@@ -111,7 +111,9 @@ Open browser at `http://localhost:8501`
 
 ## Colab Notebook (GPU Demo)
 
-The notebook in `notebooks/colab_demo.ipynb` demonstrates:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nNRkP-NY1RZCSCz_cCIZituB6r_vVGk-?usp=sharing)
+
+The notebook demonstrates:
 
 * Whisper GPU transcription
 * Qwen GGUF GPU inference
